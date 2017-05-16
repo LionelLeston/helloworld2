@@ -1,8 +1,10 @@
 # helloworld2
 
-## secodn-level title 
+## second-level title 
 
-1. first item
+### third-level title
+
+1. FIRST ITEM
 2. second item
 3 third item 
 
@@ -10,4 +12,4 @@
 
 **bold** 
 
-This is some test content in the readme file
+
